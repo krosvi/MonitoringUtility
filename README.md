@@ -3,7 +3,7 @@ MonitoringUtility
 
 What is it?
 ------------------------------------------------------
-Monitoring utility - it's an open souce utility for Microsoft Windows that show information about processes, services, autorun, active connections.
+MonitoringUtility - it's an open souce utility for Microsoft Windows that show information about processes, services, autorun, active connections.
 
 Features
 ------------------------------------------------------
