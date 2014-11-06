@@ -228,7 +228,7 @@ namespace MonitoringUtility
 
         private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("  Monitoring utility v1.0.0\n\n ©Rostislav Kurylo, 2012", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("  MonitoringUtility v1.0-beta.1\n\n ©Rostislav Kurylo, 2012", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }

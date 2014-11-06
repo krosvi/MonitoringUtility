@@ -21,7 +21,7 @@ Technology
 
 Change Log
 ------------------------------------------------------
-**v1.0.0 - Jun, 2012**
+**v1.0-beta.1 - Jun, 2012**
 * Initial version
 
 Git Access
