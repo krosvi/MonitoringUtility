@@ -23,16 +23,3 @@ Change Log
 ------------------------------------------------------
 **v1.0-beta.1 - Jun, 2012**
 * Initial version
-
-Git Access
-------------------------------------------------------
-[https://github.com/krosvi/MonitoringUtility](https://github.com/krosvi/MonitoringUtility)
-
-License
-------------------------------------------------------
-MonitoringUtility
-Copyright (C) 2012 [Rostislav Kurylo](http://github.com/krosvi)
-
-Contacts
------------------------------------------------------
-* [My Email](mailto:rostislav.k@hotmail.com)
